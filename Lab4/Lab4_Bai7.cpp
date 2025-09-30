@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string>
+#include <cstring>
 using namespace std;
 
 char* timKiem(char* s1, char* s2)
